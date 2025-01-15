@@ -1,0 +1,7 @@
+TestPages\HomePage.class
+UITestCases\HomePageDetails.class
+TestBase\TestBase.class
+Utils\ErrorScreenCapture.class
+UITestCases\LoginWithCorrectLoginDetails.class
+TestPages\LoginPage.class
+Utils\takeScreenShort.class
